@@ -1,0 +1,2 @@
+# Hospitality-Performance-Intelligence-Dashboard-using-Power-BI
+Developed an end-to-end Hospitality Analytics dashboard in Power BI, integrating multiple input datasets to monitor occupancy  rate, revenue trends, and customer segmentation  ◦ Applied data cleaning, DAX measures, and data modeling to build automated KPIs such as RevPAR, ADR, booking patterns, and  performance variance for management insights
